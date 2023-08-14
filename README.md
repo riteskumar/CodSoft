@@ -9,7 +9,7 @@ Here I have some java programming project which was assigned during CodSoft inte
 </details>
 
 - _TASK 2_
-  - **STUDENT GRADE CALCULATOR** : A program that calculate total marks , average percentage and grade of student based on average percentage.
+  - [X] **STUDENT GRADE CALCULATOR** : A program that calculate total marks , average percentage and grade of student based on average percentage.
 - _TASK 3_
   - **ATM INTERFACE** : A program that enables user to withdraw , deposit and check balance from ATM
 
