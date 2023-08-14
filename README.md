@@ -10,8 +10,9 @@ Here I have some java programming project which was assigned during CodSoft inte
 
 - _TASK 2_
   - [X] **STUDENT GRADE CALCULATOR** : A program that calculate total marks , average percentage and grade of student based on average percentage.
+   <details><summary>For more details</summary><img src="https://github.com/riteskumar/CodSoft/assets/93830633/fd537b1a-f70b-45d1-9c87-2f6a531ab3d5"/></details>
 - _TASK 3_
   - **ATM INTERFACE** : A program that enables user to withdraw , deposit and check balance from ATM
 
         ...
-<img src ="https://github.com/riteskumar/CodSoft/assets/93830633/eda126b3-3b6c-40db-99fe-70a7a839fd49" height="640px" width="900px"/>
+<img src ="https://github.com/riteskumar/CodSoft/assets/93830633/eda126b3-3b6c-40db-99fe-70a7a839fd49" height="640px" width="1280px"/>
